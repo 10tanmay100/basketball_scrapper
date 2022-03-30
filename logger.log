@@ -1,0 +1,6 @@
+2022-03-30 12:41:17,659 Connecting with the server
+2022-03-30 12:41:17,660 choosing team name BRK
+2022-03-30 12:41:19,014 Requesting the link
+2022-03-30 12:41:20,065 parsing html
+2022-03-30 12:41:20,103 Rendering data on html
+2022-03-30 12:41:20,107 127.0.0.1 - - [30/Mar/2022 12:41:20] "[37mPOST /details HTTP/1.1[0m" 200 -
